@@ -6,7 +6,6 @@ print("Roman De la Cruz Leonardo Antonio,practica 6,suma de variables")
 print(" ")#define una linea en blanco
 print("resultado de la siguiente suma")#print imprime el resultado
 print(5+2)#suma de las variables
-
-![image](https://github.com/user-attachments/assets/6c186606-dc5a-49bf-9ed1-0558c1f37d7b)
-![image](https://github.com/user-attachments/assets/e5c6650b-2121-40eb-9995-e9da6c9b321a)
+![image](https://github.com/user-attachments/assets/57b1767f-40a0-4b60-aa1c-71bd1870e5b4)
+![image](https://github.com/user-attachments/assets/caf3cb1f-54a1-4c3c-81f5-663bcaa61a32)
 
